@@ -9,7 +9,7 @@ This repository contains a Stata-based panel data analysis focused on **inequali
 ## 📁 Project Structure
 
 ```plaintext
-📂 D:/stata_tables/
+📂 Your Path/stata_tables/
 ├── 2005-2021泰尔指数.xlsx         # Raw dataset (in Chinese)
 ├── theil_analysis.do             # Main Stata analysis script
 ├── baseline.rtf                  # Output from baseline regressions
